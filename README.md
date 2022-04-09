@@ -1,5 +1,5 @@
 # Woods Game 
-![Icon from the game](./icon.bmp "Logo")
+![Icon from the game](./Icon.bmp "Logo")
 
 Just a weekend project made in Monogame. Build a base stuck in the dark forest through crafting blocks and exploring the world.
 
