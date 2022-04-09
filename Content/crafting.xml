@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="Microsoft.Xna.Framework">
+  <Asset Type="Woods.CraftingRecipe[]">
+
+    <Item> <!-- Planks -->
+      <requiredStation>9</requiredStation>
+      <requiredBlock>10</requiredBlock>
+      <result>3</result>
+    </Item>
+
+    <Item> <!-- Torch -->
+      <requiredStation>0</requiredStation>
+      <requiredBlock>10</requiredBlock>
+      <result>5</result>
+    </Item>
+
+    <Item> <!-- Bench -->
+      <requiredStation>9</requiredStation>
+      <requiredBlock>3</requiredBlock>
+      <result>12</result>
+    </Item>
+
+    <Item> <!-- Campfire -->
+      <requiredStation>12</requiredStation>
+      <requiredBlock>10</requiredBlock>
+      <result>4</result>
+    </Item>
+
+    <Item> <!-- Glass -->
+      <requiredStation>4</requiredStation>
+      <requiredBlock>11</requiredBlock>
+      <result>6</result>
+    </Item>
+
+    <Item> <!-- DoorFull -->
+      <requiredStation>12</requiredStation>
+      <requiredBlock>6</requiredBlock>
+      <result>8</result>
+    </Item>
+
+  </Asset>
+</XnaContent>

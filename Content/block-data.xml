@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="Microsoft.Xna.Framework">
+  <Asset Type="Woods.Block[]">
+    <Item>
+      <id>0</id>
+      <name>Air</name>
+      <opacity>0.1</opacity>
+      <lightIntensity>0</lightIntensity>
+      <solid>false</solid>
+      <maxHealth>0</maxHealth>
+      <produceOnBreak>0</produceOnBreak>
+      <giveOnBreak>-1</giveOnBreak>
+    </Item>
+
+    <Item>
+      <id>1</id>
+      <name>Tree</name>
+      <opacity>0.4</opacity>
+      <lightIntensity>0</lightIntensity>
+      <solid>true</solid>
+      <maxHealth>5</maxHealth>      
+      <produceOnBreak>9</produceOnBreak>
+      <giveOnBreak>10</giveOnBreak>
+
+    </Item>
+
+    <Item>
+      <id>2</id>
+      <name>Rock</name>
+      <opacity>0.4</opacity>
+      <lightIntensity>0</lightIntensity>
+      <solid>true</solid>
+      <maxHealth>10</maxHealth>
+      <produceOnBreak>0</produceOnBreak>
+      <giveOnBreak>11</giveOnBreak>
+    </Item>
+
+    <Item>
+      <id>3</id>
+      <name>Planks</name>
+      <opacity>1</opacity>
+      <lightIntensity>0</lightIntensity>
+      <solid>true</solid>
+      <maxHealth>3</maxHealth>
+      <produceOnBreak>0</produceOnBreak>
+      <giveOnBreak>3</giveOnBreak>
+    </Item>
+
+    <Item>
+      <id>4</id>
+      <name>Campfire</name>
+      <opacity>0</opacity>
+      <lightIntensity>1</lightIntensity>
+      <solid>false</solid>
+      <maxHealth>2</maxHealth>
+      <produceOnBreak>0</produceOnBreak>
+      <giveOnBreak>4</giveOnBreak>
+    </Item>
+
+    <Item>
+      <id>5</id>
+      <name>Torch</name>
+      <opacity>0</opacity>
+      <lightIntensity>0.8</lightIntensity>
+      <solid>false</solid>
+      <maxHealth>1</maxHealth>
+      <produceOnBreak>0</produceOnBreak>
+      <giveOnBreak>5</giveOnBreak>
+    </Item>
+
+    <Item>
+      <id>6</id>
+      <name>Glass</name>
+      <opacity>0.2</opacity>
+      <lightIntensity>0</lightIntensity>
+      <solid>true</solid>
+      <maxHealth>2</maxHealth>
+      <produceOnBreak>0</produceOnBreak>
+      <giveOnBreak>6</giveOnBreak>
+    </Item>
+
+    <Item>
+      <id>7</id>
+      <name>DoorFull</name>
+      <opacity>1</opacity>
+      <lightIntensity>0</lightIntensity>
+      <solid>true</solid>
+      <maxHealth>3</maxHealth>
+      <produceOnBreak>0</produceOnBreak>
+      <giveOnBreak>7</giveOnBreak>
+    </Item>
+
+    <Item>
+      <id>8</id>
+      <name>DoorHalf</name>
+      <opacity>0.1</opacity>
+      <lightIntensity>0</lightIntensity>
+      <solid>false</solid>
+      <maxHealth>3</maxHealth>
+      <produceOnBreak>0</produceOnBreak>
+      <giveOnBreak>7</giveOnBreak>
+    </Item>
+
+    <Item>
+      <id>9</id>
+      <name>Stump</name>
+      <opacity>0.1</opacity>
+      <lightIntensity>0</lightIntensity>
+      <solid>false</solid>
+      <maxHealth>3</maxHealth>
+      <produceOnBreak>0</produceOnBreak>
+      <giveOnBreak>-1</giveOnBreak>
+    </Item>
+
+    <Item>
+      <id>10</id>
+      <name>Log</name>
+      <opacity>1</opacity>
+      <lightIntensity>0</lightIntensity>
+      <solid>true</solid>
+      <maxHealth>5</maxHealth>
+      <produceOnBreak>0</produceOnBreak>
+      <giveOnBreak>10</giveOnBreak>
+    </Item>
+
+    <Item>
+      <id>11</id>
+      <name>Sand</name>
+      <opacity>0.4</opacity>
+      <lightIntensity>0</lightIntensity>
+      <solid>true</solid>
+      <maxHealth>2</maxHealth>
+      <produceOnBreak>0</produceOnBreak>
+      <giveOnBreak>11</giveOnBreak>
+    </Item>
+
+    <Item>
+      <id>12</id>
+      <name>Bench</name>
+      <opacity>0.5</opacity>
+      <lightIntensity>0</lightIntensity>
+      <solid>true</solid>
+      <maxHealth>3</maxHealth>
+      <produceOnBreak>0</produceOnBreak>
+      <giveOnBreak>12</giveOnBreak>
+    </Item>
+
+  </Asset>
+</XnaContent>
