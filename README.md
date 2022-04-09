@@ -1,4 +1,5 @@
-# Woods Game
+# Woods Game 
+![Icon from the game](./icon.bmp "Logo")
 
 Just a weekend project made in Monogame. Build a base stuck in the dark forest through crafting blocks and exploring the world.
 
@@ -24,3 +25,6 @@ Use any tile to craft:
 Get sand from rocks.
 Get logs from trees.
 
+## Screenshots
+
+![Screenshot from the game](./screenshot.png "Spawning in...")
